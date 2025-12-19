@@ -112,7 +112,7 @@ This avoids model context-length limitations and ensures stable memory usage.
 Run the application from the project root directory:
 
 ```bash
-python app.py --url "https://www.youtube.com/watch?v=VIDEO_ID"
+python app.py --url "https://www.youtube.com/watch?v=PpH_mi923_A"
 ```
 
 ### Outputs
