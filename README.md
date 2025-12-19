@@ -32,7 +32,7 @@ All AI components (speech-to-text and summarization) run entirely offline using 
 
 ### 2.2 Create Virtual Environment
 
-''' python -m venv venv '''
+$ python -m venv venv
 
 ### Activate:
 
