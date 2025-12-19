@@ -14,12 +14,15 @@ offline-youtube-summarizer/
 │
 ├── downloader/
 │   └── youtube_audio.py
+│   └── test_download.py
 │
 ├── stt/
 │   └── whisper_transcriber.py
+│   └── test_whisper.py
 │
 ├── summarizer/
 │   └── bart_summarizer.py
+│   └── test_summary.py
 │
 ├── utils/
 │   └── chunker.py
@@ -27,6 +30,7 @@ offline-youtube-summarizer/
 ├── transcript.txt
 ├── summary.txt
 ├── requirements.txt
+├── README_STRUCTURE.md
 └── README.md
 ```
 
